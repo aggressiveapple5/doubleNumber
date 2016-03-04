@@ -14,8 +14,5 @@ while error == True:
 	else:
 		print("Double that is {}.".format(number * 2))
 		error = False
-		
-	
-	
-	
-	
+
+		#Else happens when try is true, except happens if try is false
